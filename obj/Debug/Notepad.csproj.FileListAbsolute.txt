@@ -1,0 +1,9 @@
+D:\Users\Harold\source\repos\Notepad\bin\Debug\Notepad.exe.config
+D:\Users\Harold\source\repos\Notepad\bin\Debug\Notepad.exe
+D:\Users\Harold\source\repos\Notepad\bin\Debug\Notepad.pdb
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.Form1.resources
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.exe
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.pdb
+D:\Users\Harold\source\repos\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
