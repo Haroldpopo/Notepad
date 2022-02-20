@@ -9,3 +9,5 @@
 
 
 详细说明请移步Harold-popo的博客园 --> https://www.cnblogs.com/Harold-popo/p/12436682.html
+
+最新说明，个人博客（Hexo + Gitee Page）搭建 --> https://harold_popo.gitee.io/notepad-program/
